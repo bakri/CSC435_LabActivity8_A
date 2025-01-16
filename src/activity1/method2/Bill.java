@@ -1,4 +1,4 @@
-package activity1;
+package activity1.method2;
 
 public class Bill {
     private String recordNo;
